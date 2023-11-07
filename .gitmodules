@@ -1,0 +1,15 @@
+[submodule "Submodules/com.unity.services.authentication"]
+	path = Submodules/com.unity.services.authentication
+	url = https://github.com/needle-mirror/com.unity.services.authentication
+[submodule "Submodules/com.unity.services.ccd.management"]
+	path = Submodules/com.unity.services.ccd.management
+	url = https://github.com/needle-mirror/com.unity.services.ccd.management
+[submodule "Submodules/com.unity.services.core"]
+	path = Submodules/com.unity.services.core
+	url = https://github.com/needle-mirror/com.unity.services.core
+[submodule "Submodules/com.unity.services.economy"]
+	path = Submodules/com.unity.services.economy
+	url = https://github.com/needle-mirror/com.unity.services.economy
+[submodule "Submodules/com.unity.services.lobby"]
+	path = Submodules/com.unity.services.lobby
+	url = https://github.com/needle-mirror/com.unity.services.lobby
