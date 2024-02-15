@@ -13,3 +13,6 @@
 [submodule "Submodules/com.unity.services.lobby"]
 	path = Submodules/com.unity.services.lobby
 	url = https://github.com/needle-mirror/com.unity.services.lobby
+[submodule "Submodules/com.unity.services.analytics"]
+	path = Submodules/com.unity.services.analytics
+	url = https://github.com/needle-mirror/com.unity.services.analytics
